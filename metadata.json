@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/YOUR-USERNAME/YOUR-REPO/releases/download/v1.0.1/pco-events.zip",
+  "details_url": "https://github.com/YOUR-USERNAME/YOUR-REPO",
+  "tested": "6.5",
+  "requires": "5.0"
+}
