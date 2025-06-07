@@ -1,7 +1,7 @@
 {
   "name": "PCO Events for WordPress",
-  "version": "1.0.9",
-  "download_url": "https://github.com/eastlakechurch/pco_plugin/releases/download/v1.0.9/pco_plugin.zip",
+  "version": "1.0.10",
+  "download_url": "https://github.com/eastlakechurch/pco_plugin/releases/download/v1.0.10/pco_plugin.zip",
   "details_url": "https://github.com/eastlakechurch/pco_plugin",
   "tested": "6.5",
   "requires": "5.0"
